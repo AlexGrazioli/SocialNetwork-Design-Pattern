@@ -1,3 +1,0 @@
-Starting application
-Logging another event
-Critical failure
